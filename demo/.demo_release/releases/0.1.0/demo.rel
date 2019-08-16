@@ -1,0 +1,14 @@
+%% coding: utf-8
+{release,{"demo","0.1.0"},
+         {erts,"10.2"},
+         [{kernel,"6.2",permanent},
+          {stdlib,"3.7",permanent},
+          {elixir,"1.9.0",permanent},
+          {sasl,"3.3",permanent},
+          {runtime_tools,"1.13.1",permanent},
+          {mixeddoubles,"0.1.0",permanent},
+          {iex,"1.9.0",none},
+          {compiler,"7.3",permanent},
+          {logger,"1.9.0",permanent},
+          {phst_transform,"1.0.2",permanent},
+          {table_rex,"2.0.0",permanent}]}.
