@@ -25,7 +25,7 @@ random court assignments for mixed doubles pairings using Elixir with wait-lists
 
   %USERPROFILE%\Desktop\demo\MD App CMD
   	Shortcut that runs a Python programming language script.
-  	This "runner" includes use instructions), so
+  	This "runner" includes use instructions, so
   	it is recommended for first time use.
   	(move this anywhere that you find convenient,
   	 e.g., the Desktop)
