@@ -29,8 +29,8 @@ Use (including application paths to moving parts):
 
 %USERPROFILE%\Desktop\demo\show-script-output.py 
 	(Python script that runs:
-		notepad (used to edit females.csv and males.csv)
-		run.bat
+		notepad (used to edit females.csv and males.csv) and
+		run.bat (runs Elixir to "Assign Courts."
 
 %USERPROFILE%\Desktop\demo\Assign Courts Mixed Doubles
 	A shortcut that can be used to run an Elixir programming 
